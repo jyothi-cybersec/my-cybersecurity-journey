@@ -37,3 +37,8 @@ Hi! I’m G. Jyothi, a B.Tech CS student passionate about ethical hacking. This 
 ---
 
 > “I’m learning one tool, one script, one step at a time — from beginner to cybersecurity pro.”
+---
+
+## 🧪 Projects
+
+🔗 [View Port Scanner Script](tools/port_scanner.py)
